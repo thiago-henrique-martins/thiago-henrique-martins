@@ -1,12 +1,10 @@
-<h1 align="center">Thiago Martins</h1>
+<div align="center">
 
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas • FATEC Ribeirão Preto
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a0a0a,50:6d28d9,100:a855f7&text=THIAGO%20MARTINS&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  Construindo uma base sólida em diferentes áreas da tecnologia para descobrir onde posso gerar mais valor e, a partir disso, definir minha especialização.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=ESTUDANTE+DE+ADS+%E2%80%A2+FATEC+RIBEIR%C3%83O+PRETO;CONSTRUINDO+BASE+EM+DIFERENTES+%C3%81REAS+DE+TI;DEV+%E2%80%A2+CLOUD+%E2%80%A2+DADOS+%E2%80%A2+IA+%E2%80%A2+SEGURAN%C3%87A"/>
+
+</div>
 
 ---
 
@@ -20,103 +18,51 @@ Meu objetivo neste momento é explorar essas áreas na prática, entender como e
 
 ---
 
-## Áreas de Conhecimento
+## Tech Stack
 
-<table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,py,cpp,mysql,oracle,linux,git,github&perline=8"/>
+
+</div>
+
+<div align="center">
+
+**Front-end:** HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
+**Back-end:** Node.js • Python • C++
+**Banco de Dados:** SQL • Modelagem de Dados • SQL Server • Oracle Database
+**Cloud:** Oracle Cloud Infrastructure (OCI)
+**IA:** IA Generativa • Machine Learning • Serviços de IA na OCI
+**Infra & Segurança:** Redes de Computadores • Linux • Git e GitHub • Fundamentos de Cibersegurança
+
+</div>
+
+---
+
+## Certificações
+
+<table align="center">
 <tr>
+<td width="70" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+</td>
+<td>
 
-<td width="50%" valign="top">
-
-### Desenvolvimento Web
-
-Construção de interfaces e aplicações web modernas.
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
-</p>
-
-**Back-end**
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-</p>
-
-Front-end: HTML • CSS • JavaScript • React • Next.js • Tailwind CSS
-Back-end: Node.js • Python • C++
+**Oracle Cloud Infrastructure Foundations Associate**
+Oracle
 
 </td>
-
-<td width="50%" valign="top">
-
-### Banco de Dados
-
-Modelagem e desenvolvimento de bancos de dados relacionais.
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Database"/>
-</p>
-
-SQL • Modelagem de Dados • SQL Server • Oracle Database
-
-</td>
-
 </tr>
 <tr>
+<td width="70" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
+</td>
+<td>
 
-<td width="50%" valign="top">
-
-### Cloud Computing
-
-Fundamentos de Oracle Cloud Infrastructure.
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud"/>
-</p>
-
-Oracle Cloud Infrastructure (OCI) • Conceitos de arquitetura em nuvem
+**Oracle Cloud Infrastructure AI Foundations Associate**
+Oracle
 
 </td>
-
-<td width="50%" valign="top">
-
-### Inteligência Artificial
-
-Fundamentos de IA e IA Generativa.
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle AI"/>
-</p>
-
-IA Generativa • Machine Learning • Serviços de IA na OCI
-
-</td>
-
-</tr>
-<tr>
-
-<td colspan="2" valign="top">
-
-### Infraestrutura e Segurança
-
-Linux, redes, controle de versão e fundamentos de cibersegurança.
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</p>
-
-Redes de Computadores • Fundamentos de Cibersegurança
-
-</td>
-
 </tr>
 </table>
 
@@ -135,35 +81,6 @@ Participação em hackathon voltado ao desenvolvimento de soluções tecnológic
 
 ---
 
-## Certificações
-
-<table>
-<tr>
-<td width="70">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
-</td>
-<td>
-
-**Oracle Cloud Infrastructure Foundations Associate**
-Oracle
-
-</td>
-</tr>
-<tr>
-<td width="70">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/>
-</td>
-<td>
-
-**Oracle Cloud Infrastructure AI Foundations Associate**
-Oracle
-
-</td>
-</tr>
-</table>
-
----
-
 ## Próximos passos
 
 Continuar desenvolvendo minha base técnica por meio de projetos, certificações e experiências práticas, buscando aprofundar meus conhecimentos nas áreas com as quais eu mais me identificar ao longo da minha trajetória.
@@ -174,7 +91,22 @@ Meu objetivo é construir uma carreira sólida em tecnologia, mantendo uma visã
 
 ## Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/thiagoreismartins/">LinkedIn</a> ·
-  <a href="mailto:thiagohrm07@gmail.com">thiagohrm07@gmail.com</a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thiagoreismartins/">
+<img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thiagohrm07@gmail.com">
+<img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thiago-henrique-martins">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0a0a0a,50:6d28d9,100:a855f7"/>
