@@ -20,6 +20,15 @@ Conhecimentos em desenvolvimento de interfaces utilizando:
 - Tailwind CSS
 - React
 - Next.js
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React"/>
+</p>
+
 ### Desenvolvimento Back-end
 
 Conhecimentos em desenvolvimento de aplicações utilizando:
@@ -27,6 +36,13 @@ Conhecimentos em desenvolvimento de aplicações utilizando:
 - Node.js
 - Python
 - C++
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" height="28" alt="C++"/>
+</p>
+
 ### Banco de Dados
 
 Conhecimentos em modelagem e desenvolvimento de bancos de dados relacionais utilizando:
@@ -35,6 +51,12 @@ Conhecimentos em modelagem e desenvolvimento de bancos de dados relacionais util
 - Modelagem de Dados
 - SQL Server
 - Oracle Database
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28" height="28" alt="SQL Server"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="28" height="28" alt="Oracle Database"/>
+</p>
+
 ### Cloud Computing
 
 Conhecimentos nos fundamentos de computação em nuvem, com foco em:
@@ -42,6 +64,11 @@ Conhecimentos nos fundamentos de computação em nuvem, com foco em:
 - Oracle Cloud Infrastructure (OCI)
 - Serviços fundamentais de Cloud
 - Conceitos de arquitetura em nuvem
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="28" height="28" alt="Oracle Cloud"/>
+</p>
+
 ### Inteligência Artificial
 
 Conhecimentos nos fundamentos de Inteligência Artificial, incluindo:
@@ -49,6 +76,7 @@ Conhecimentos nos fundamentos de Inteligência Artificial, incluindo:
 - Conceitos de IA
 - IA Generativa
 - Machine Learning
+
 ### Infraestrutura e Segurança
 
 Conhecimentos em:
@@ -57,6 +85,13 @@ Conhecimentos em:
 - Fundamentos de Cibersegurança
 - Linux
 - Git e GitHub
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" height="28" alt="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" height="28" alt="GitHub"/>
+</p>
+
 ---
  ## Certificações
 
