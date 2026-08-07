@@ -57,3 +57,13 @@ Conhecimentos em:
 - Fundamentos de Cibersegurança
 - Linux
 - Git e GitHub
+---
+ ## Certificações 
+
+ ### Oracle 
+
+ - Oracle Cloud Infrastructure Foundations Associate 
+ - Oracle Cloud Infrastructure AI Foundations Associate 
+
+
+ As certificações validam conhecimentos em fundamentos de computação em nuvem, serviços da Oracle Cloud Infrastructure e conceitos de Inteligência Artificial aplicados à plataforma OCI.
