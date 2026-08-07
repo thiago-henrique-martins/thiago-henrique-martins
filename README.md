@@ -85,3 +85,9 @@ Participação em hackathon voltado ao desenvolvimento de soluções tecnológic
 Continuar desenvolvendo minha base técnica por meio de projetos, certificações e experiências práticas, buscando aprofundar meus conhecimentos nas áreas com as quais eu mais me identificar ao longo da minha trajetória.
 
 Meu objetivo é construir uma carreira sólida em tecnologia, mantendo uma visão ampla das diferentes áreas antes de definir uma especialização.
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/thiagoreismartins/
+- E-mail: thiagohrm07@gmail.com
