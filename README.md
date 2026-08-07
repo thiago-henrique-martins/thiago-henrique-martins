@@ -7,3 +7,53 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Ribeirão Preto
 Atualmente estou construindo uma base em diferentes áreas da tecnologia, como desenvolvimento de software, banco de dados, computação em nuvem, infraestrutura e cibersegurança.
 
 Meu objetivo neste momento é explorar essas áreas na prática, entender como elas se conectam e descobrir quais caminhos tenho maior afinidade para, futuramente, aprofundar meus conhecimentos e direcionar minha carreira.
+
+---
+## Tecnologias e Conhecimentos
+### Desenvolvimento Front-end
+
+Conhecimentos em desenvolvimento de interfaces utilizando:
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+- React
+- Next.js
+### Desenvolvimento Back-end
+
+Conhecimentos em desenvolvimento de aplicações utilizando:
+
+- Node.js
+- Python
+- C++
+### Banco de Dados
+
+Conhecimentos em modelagem e desenvolvimento de bancos de dados relacionais utilizando:
+
+- SQL
+- Modelagem de Dados
+- SQL Server
+- Oracle Database
+### Cloud Computing
+
+Conhecimentos nos fundamentos de computação em nuvem, com foco em:
+
+- Oracle Cloud Infrastructure (OCI)
+- Serviços fundamentais de Cloud
+- Conceitos de arquitetura em nuvem
+### Inteligência Artificial
+
+Conhecimentos nos fundamentos de Inteligência Artificial, incluindo:
+
+- Conceitos de IA
+- IA Generativa
+- Machine Learning
+### Infraestrutura e Segurança
+
+Conhecimentos em:
+
+- Redes de Computadores
+- Fundamentos de Cibersegurança
+- Linux
+- Git e GitHub
