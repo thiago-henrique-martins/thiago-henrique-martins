@@ -58,12 +58,23 @@ Conhecimentos em:
 - Linux
 - Git e GitHub
 ---
- ## Certificações 
+ ## Certificações
 
- ### Oracle 
+### Oracle
 
- - Oracle Cloud Infrastructure Foundations Associate 
- - Oracle Cloud Infrastructure AI Foundations Associate 
+- Oracle Cloud Infrastructure Foundations Associate
+- Oracle Cloud Infrastructure AI Foundations Associate
 
+> Fundamentos de Oracle Cloud Infrastructure (OCI), Cloud Computing e Inteligência Artificial.
 
- As certificações validam conhecimentos em fundamentos de computação em nuvem, serviços da Oracle Cloud Infrastructure e conceitos de Inteligência Artificial aplicados à plataforma OCI.
+## Experiências
+### CCM Academy
+
+Participação na 6ª edição do CCM Academy, programa de capacitação voltado ao desenvolvimento técnico e profissional.
+
+Durante a formação, desenvolvi conhecimentos em Linux, Banco de Dados, Oracle Cloud Infrastructure, Desenvolvimento Web e Inteligência Artificial, além de participar de atividades voltadas ao desenvolvimento de habilidades de comunicação, trabalho em equipe e resolução de problemas.
+### Hackathon - Saúde
+
+Participação em hackathon voltado ao desenvolvimento de soluções tecnológicas para o setor da saúde.
+
+*Em atualização.*
