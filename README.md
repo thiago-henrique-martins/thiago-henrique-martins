@@ -18,15 +18,12 @@ Conhecimentos em desenvolvimento de interfaces utilizando:
 - CSS
 - JavaScript
 - Tailwind CSS
-- React
-- Next.js
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="28" height="28" alt="HTML"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="28" height="28" alt="CSS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28" alt="Tailwind CSS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28" height="28" alt="React"/>
 </p>
 
 ### Desenvolvimento Back-end
@@ -48,9 +45,8 @@ Conhecimentos em desenvolvimento de aplicações utilizando:
 Conhecimentos em modelagem e desenvolvimento de bancos de dados relacionais utilizando:
 
 - SQL
-- Modelagem de Dados
-- SQL Server
-- Oracle Database
+- Modelagem de Dados (DER, MER)
+- Diagrama Conceitual e Lógico
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="28" height="28" alt="SQL Server"/>
